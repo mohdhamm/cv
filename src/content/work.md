@@ -25,7 +25,7 @@ assistant for our platform that converses with the user and performs actions.
     "place": "Freelance",
     "websiteUrl":[],
     "location": "Beirut",
-    "year": "2024 - Present",
+    "year": "2024",
     "title": "Backend Engineer"
 }
 ```end
