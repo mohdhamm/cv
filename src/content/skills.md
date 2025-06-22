@@ -1,5 +1,5 @@
-Proficient with: <small>(4+ years)</small>
-**C#** • **ASP.NET Core** • **EF/EF Core** • Blazor • Typescript • HTML • CSS/SASS • **SQL** • **Git**
+Proficient with:
+C# • ASP.NET Core • Blazor • Typescript • HTML • CSS/SASS • SQL Server • PostgreSQL • Git
 
 Familiar with:
-Python • Java • AWS • postgres
+Python • Java • AWS
